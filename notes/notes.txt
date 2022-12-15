@@ -1,0 +1,4 @@
+bob=10
+arenita=5
+patricio=6
+
